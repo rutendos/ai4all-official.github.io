@@ -1,6 +1,5 @@
-# (UPDATE IN README.md) Project Title
+# Example Project Title
 
-(UPDATE IN README.md)
 Briefly describe the purpose/result(s) of your project, the skills you applied, and the AI4ALL Ignite program.
 
 *EXAMPLE:*
@@ -9,7 +8,6 @@ Briefly describe the purpose/result(s) of your project, the skills you applied, 
 
 ## Problem Statement <!--- do not change this line -->
 
-(UPDATE IN README.md)
 Describe the motivation for this project, why it is relevant, and what its impacts are.
 
 *EXAMPLE:*
@@ -17,7 +15,6 @@ Describe the motivation for this project, why it is relevant, and what its impac
 
 ## Key Results <!--- do not change this line -->
 
-(UPDATE IN README.md)
 Enumerate the main results of this project in a list and describe them.
 
 *EXAMPLE:*
